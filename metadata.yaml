@@ -1,0 +1,38 @@
+_repo: Ingres_42573
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42573-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Finberg, A. J. (Alexander Joseph)
+    alias: Finberg, Alexander Joseph
+    birthdate: 1866
+    deathdate: 1939
+    gutenberg_agent_id: '41747'
+    url: http://www.gutenberg.org/2009/agents/41747
+  editor:
+    agent_name: Hare, T. Leman (Thomas Leman)
+    aliases:
+    - Hare, T. L. (Thomas Leman)
+    - Hare, Thomas Leman
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '41203'
+    url: http://www.gutenberg.org/2009/agents/41203
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Ingres, Jean-Auguste-Dominique, 1780-1867'
+title: Ingres
+url: http://www.gutenberg.org/ebooks/42573
